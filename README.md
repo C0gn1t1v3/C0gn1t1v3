@@ -116,4 +116,4 @@ I'm always open to working on interesting projects — whether it's a side proje
 </div>
 
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00d4ff,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=120&section=footer" width="100%"/>
