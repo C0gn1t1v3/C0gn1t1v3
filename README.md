@@ -1,5 +1,3 @@
-<div align="center">
-
 <!-- ANIMATED HEADER -->
 <div align="center">
 
