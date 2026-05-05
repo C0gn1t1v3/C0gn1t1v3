@@ -61,15 +61,10 @@ const C0gn1t1v3 = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=C0gn1t1v3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=C0gn1t1v3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=C0gn1t1v3&theme=tokyonight&hide_border=true" width="500"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=C0gn1t1v3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0gn1t1v3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" height="165"/>
+<br/>
+<img src="https://streak-stats.demolab.com/?user=C0gn1t1v3&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="500"/>
 </div>
 
 ---
