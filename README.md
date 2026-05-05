@@ -62,11 +62,13 @@ const C0gn1t1v3 = {
 
 <div align="center">
 
-[![Wan's GitHub stats](https://github-readme-stats.vercel.app/api?username=C0gn1t1v3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)](https://github.com/C0gn1t1v3)
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=C0gn1t1v3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=C0gn1t1v3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0gn1t1v3&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/C0gn1t1v3)
+<br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=C0gn1t1v3&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=C0gn1t1v3&theme=tokyonight&hide_border=true" width="500"/>
 
 </div>
 
