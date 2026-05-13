@@ -1,118 +1,117 @@
-<!-- ANIMATED HEADER -->
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Merwin%20Generoso&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=3rd%20Year%20Information%20Technology%2C%20NU%20Laguna&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00d4ff,100:0d1117&height=200&section=header&text=C0gn1t1v3&fontSize=70&fontColor=ffffff&fontAlignY=55&animation=twinkling&stroke=00d4ff&strokeWidth=2" width="100%"/>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=generosomm">
+    <img src="https://komarev.com/ghpvc/?username=generosomm&label=Profile%20views&color=00FFFF&style=flat-square" alt="generosomm's profile views" />
+  </a>
+</p>
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+C0gn1t1v3+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;I+lift+heavy+things+and+ship+code+%F0%9F%8F%8B%EF%B8%8F;No+coffee+needed%2C+just+sleep+%F0%9F%92%A4" alt="Typing SVG" />
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-<br/>
+## 📌 About Me
+- I specialize in clean architecture and user-centered interfaces.
+- I shape short-form and long-form content into clear, high-retention stories designed for social platforms
 
-<!-- SOCIAL BADGES -->
-[![GitHub](https://img.shields.io/badge/GitHub-C0gn1t1v3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/C0gn1t1v3)
-[![Profile Views](https://komarev.com/ghpvc/?username=C0gn1t1v3&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/C0gn1t1v3)
 
-</div>
+## 🧠 My Focus Areas
+- Full Stack Programming
+- Digital Marketing
+- Web Development
 
----
 
-## ⚡ About Me
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=generosomm&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Merwin Generoso's GitHub Trophies" />
+</p>
 
-```javascript
-const C0gn1t1v3 = {
-  name:        "Wan Abdullah",
-  role:        "Full Stack Developer",
-  location:    "Malaysia 🇲🇾",
-  hobbies:     ["Powerlifting 🏋️", "Sleeping 💤", "Building things that work"],
-  fuel:        "Sleep (not coffee — never coffee ☕❌)",
-  currentFocus: "Open to collaborating on cool projects",
-  motto:       "Strong body, strong code, strong naps.",
-};
-```
 
----
+## 🛠️ Languages & Tools
 
-## 🛠️ Tech Stack
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" />
 
-**Languages**
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
 
-**Frontend & Backend**
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="40" />
 
-**Environment**
+</p>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
 
----
+</p>
 
-## 📊 GitHub Stats
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" />
 
-<div align="center">
+</p>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=C0gn1t1v3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=C0gn1t1v3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 
-<br/><br/>
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=C0gn1t1v3&theme=tokyonight&hide_border=true" width="500"/>
+<p align="center">
+  <a href="https://github.com/generosomm">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=generosomm&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
-</div>
----
-
-## 🚀 Featured Projects
-
-> *Nothing here yet — but big things are loading...* 🔄
-
-<!-- 
-Uncomment and fill in when you're ready to add projects:
-
-### 🔹 [Project Name](https://github.com/C0gn1t1v3/project-name)
-> Short description of what it does and why it's cool.
-> 
-> ![Stack](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![Stack](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
--->
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/generosomm/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@eroedtx">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:generosomerwin10@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://my-website-2023-120922.s3.ap-southeast-1.amazonaws.com/index.html#contact">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/C0gn1t1v3/C0gn1t1v3/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/C0gn1t1v3/C0gn1t1v3/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/C0gn1t1v3/C0gn1t1v3/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-</div>
-
----
-
-## 🤝 Let's Collaborate
-
 <div align="center">
-
-I'm always open to working on interesting projects — whether it's a side project, open source contribution, or just a cool idea you want to build together.
-
-[![GitHub](https://img.shields.io/badge/Find%20me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/C0gn1t1v3)
-
-*"The only bad rep is the one you didn't attempt."* 🏋️‍♂️
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=120&section=footer" width="100%"/>
