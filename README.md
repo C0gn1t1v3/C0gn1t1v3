@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/C0gn1t1v3/C0gn1t1v3/main/assets/renaissance_title.png" alt="C0gn1t1v3: Sunway Scholarly Register" width="100%"/>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:0077ff&text=C0gn1t1v3&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=3rd%20Year%20Computer%20Science%2C%20Sunway&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
