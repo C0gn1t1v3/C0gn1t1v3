@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=generosomm">
-    <img src="https://komarev.com/ghpvc/?username=generosomm&label=Profile%20views&color=00FFFF&style=flat-square" alt="generosomm's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=generosomm&label=PROFILE+VIEWS&color=0077ff&style=for-the-badge" alt="generosomm's profile views" />
   </a>
 </p>
 
