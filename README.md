@@ -9,13 +9,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I specialize in clean architecture and user-centered interfaces.
-- I shape short-form and long-form content into clear, high-retention stories designed for social platforms
-
+- Specialize in building scalable, high-performance web applications
+- Passionate about writing clean, modular code and implementing efficient backend architectures
 
 ## 🧠 My Focus Areas
 - Full Stack Programming
-- Digital Marketing
 - Web Development
 
 
