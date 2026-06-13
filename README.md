@@ -6,12 +6,8 @@
   </a>
 </p>
 
-<a href="https://www.linkedin.com/in/wanabdullah/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
 <p align="center">
-<a href="https://www.linkedin.com/in/sushmita-dasari-227a40284/" target="_blank">
+<a href="https://www.linkedin.com/in/wanabdullah/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
